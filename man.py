@@ -1,2 +1,2 @@
 print ("hello mamad " )
-print ("hey mamad ")
+print ("hey mamad  ok ")
